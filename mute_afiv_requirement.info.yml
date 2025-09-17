@@ -1,0 +1,6 @@
+# web/modules/custom/mute_avif_warning/mute_avif_requirment.info.yml
+name: Mute AVIF Warning
+type: module
+description: "Hide/downgrade GD AVIF status report warning."
+core_version_requirement: ^10 || ^11
+package: Mondial-IT
