@@ -1,6 +1,6 @@
 {
-  "name": "mondial-it/mute_afiv_requirement",
-  "description": "Custom Drupal 11 module mute_afiv_requirement",
+  "name": "mondial-it/mit_mute_avif_requirement",
+  "description": "Custom Drupal 11 module mit_mute_avif_requirement",
   "type": "drupal-custom-module",
   "license": "proprietary",
   "require": {
@@ -11,7 +11,7 @@
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "Drupal\\mute_afiv_requirement\\": "src/"
+      "Drupal\\mit_mute_avif_requirement\\": "src/"
     }
   }
 }
